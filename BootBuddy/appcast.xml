@@ -2,9 +2,16 @@
 <channel>
 <title>BootBuddy</title>
 <item>
-<title>1.0.3</title>
-<pubDate>Fri, 08 Jan 2021 21:44:40 -0800</pubDate>
+<title>1.0.1</title>
+<pubDate>Fri, 08 Jan 2021 22:51:47 -0800</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/MacEnhance/appcast/raw/master/BootBuddy/BootBuddy.zip" sparkle:version="3" sparkle:shortVersionString="1.0.3" length="3131329" type="application/octet-stream" sparkle:edSignature="tYbpYXCXZTNJqT3/nbUAHkUaPxrh7rcz9MP/hyvKaxLarQ1koPDc5xku+262gRb5643OWdqRkwOQPVWvskqvAA=="/>
+<enclosure url="https://github.com/MacEnhance/appcast/raw/master/BootBuddy/BootBuddy.1.0.1.zip" sparkle:version="1" sparkle:shortVersionString="1.0.1" length="3789975" type="application/octet-stream" sparkle:edSignature="dj4Hlz5pLA7NLNRh3/SSaxoBFy5iH8WLb5+EQw+5zZFSq17GcdRMxBigsIlT2JwVQ7CnTIGy5EOgpzR6ULWqAg=="/>
+</item>
+
+<item>
+<title>1.0.1</title>
+<pubDate>Fri, 08 Jan 2021 22:51:47 -0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/MacEnhance/appcast/raw/master/BootBuddy/BootBuddy.zip" sparkle:version="1" sparkle:shortVersionString="1.0.1" length="3789975" type="application/octet-stream" sparkle:edSignature="dj4Hlz5pLA7NLNRh3/SSaxoBFy5iH8WLb5+EQw+5zZFSq17GcdRMxBigsIlT2JwVQ7CnTIGy5EOgpzR6ULWqAg=="/>
 </item>
 </channel></rss>
