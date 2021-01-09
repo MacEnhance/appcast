@@ -2,9 +2,9 @@
 <channel>
 <title>BootBuddy</title>
 <item>
-<title>1.0.2</title>
+<title>1.0.3</title>
 <pubDate>Fri, 08 Jan 2021 21:44:40 -0800</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/MacEnhance/appcast/blame/master/BootBuddy/BootBuddy.zip" sparkle:version="2" sparkle:shortVersionString="1.0.2" length="3131329" type="application/octet-stream" sparkle:edSignature="tYbpYXCXZTNJqT3/nbUAHkUaPxrh7rcz9MP/hyvKaxLarQ1koPDc5xku+262gRb5643OWdqRkwOQPVWvskqvAA=="/>
+<enclosure url="https://github.com/MacEnhance/appcast/raw/master/BootBuddy/BootBuddy.zip" sparkle:version="3" sparkle:shortVersionString="1.0.3" length="3131329" type="application/octet-stream" sparkle:edSignature="tYbpYXCXZTNJqT3/nbUAHkUaPxrh7rcz9MP/hyvKaxLarQ1koPDc5xku+262gRb5643OWdqRkwOQPVWvskqvAA=="/>
 </item>
 </channel></rss>
