@@ -1,3 +1,10 @@
 <?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
+<item>
+<title>1.0.1</title>
+<pubDate>Mon, 01 Nov 2021 17:19:18 -0700</pubDate>
+<sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/MacEnhance/appcast/master/IconChamp/IconChamp.zip" sparkle:version="5" sparkle:shortVersionString="1.0.1" length="5820519" type="application/octet-stream" sparkle:edSignature="zDxS3TE8NwWMNr5kEWnlEt2t/dNIqman3N4TJ+xtf+fStSvrxgpGn7tADyHEOKuMatMHANVf/r+BfR+jxO7/Bw=="/>
+</item>
+
 </channel></rss>
