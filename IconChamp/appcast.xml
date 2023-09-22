@@ -5,7 +5,7 @@
         <item>
             <title>1.0.1</title>
             <pubDate>Mon, 01 Nov 2021 17:19:18 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
+            <sparkle:version>1.0.1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/MacEnhance/appcast/master/IconChamp/IconChamp.1.0.1.zip" length="5820519" type="application/octet-stream" sparkle:edSignature="zDxS3TE8NwWMNr5kEWnlEt2t/dNIqman3N4TJ+xtf+fStSvrxgpGn7tADyHEOKuMatMHANVf/r+BfR+jxO7/Bw=="/>
