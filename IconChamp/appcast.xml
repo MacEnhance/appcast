@@ -3,12 +3,24 @@
     <channel>
         <title>IconChamp</title>
         <item>
+            <title>1.3.6</title>
+            <pubDate>Thu, 28 Sep 2023 20:57:04 -0700</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/MacEnhance/appcast/master/IconChamp/IconChamp.zip" length="5980197" type="application/octet-stream" sparkle:edSignature="PaemZNbMzkeXJaDsrxkoxjse66M9qepxA9zrGpZzHe6ocKS8WVvknidaurxkVSIJurBReN5X8nQWprG4qizwCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/MacEnhance/appcast/master/IconChamp/IconChamp9-6.delta" sparkle:deltaFrom="6" length="1851381" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1418944" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,en,uk" sparkle:edSignature="drI5zTF7R2s9YkSX6l/LAAkCEZFLh6C/0UmpohqiZJ3qSnS+NFEoaFJo/hrEkGVdukToNVHSVbYL+zoDIi94Cg=="/>
+                <enclosure url="https://raw.githubusercontent.com/MacEnhance/appcast/master/IconChamp/IconChamp9-5.delta" sparkle:deltaFrom="5" length="2450267" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1418944" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,en,uk" sparkle:edSignature="R86IFv1vW0S5fIOIBqFxl4Q1tw0dlHPwYvrok3ACFW2E4m6Tr4ixS5Sdpe7HlHvrDmzeePw1EbTx9DCGO8enDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.5</title>
             <pubDate>Thu, 21 Sep 2023 21:35:42 -0700</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/MacEnhance/appcast/master/IconChamp/IconChamp.zip" length="5977959" type="application/octet-stream" sparkle:edSignature="G6Ay8fYY6VCxEZS+PM5uySheVnrkj4TskzkFP4LUMJRGvT33FgqN2PhfkP57O0SutYb6hRpzM37ZyRjtyUWZCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/MacEnhance/appcast/master/IconChamp/IconChamp.1.3.5zip.zip" length="5977959" type="application/octet-stream" sparkle:edSignature="G6Ay8fYY6VCxEZS+PM5uySheVnrkj4TskzkFP4LUMJRGvT33FgqN2PhfkP57O0SutYb6hRpzM37ZyRjtyUWZCg=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/MacEnhance/appcast/master/IconChamp/IconChamp6-5.delta" sparkle:deltaFrom="5" length="2439268" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1418944" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,en,uk" sparkle:edSignature="A7DkWdcTeOn1XCEq8WLqEbJcBujkQHasG60ej2oc4K+ciBGb/pOZafeq1KI9TfX2rWGpcM8kGlPAjJMzoPu4BQ=="/>
             </sparkle:deltas>
